@@ -8,5 +8,8 @@
     "dev": "nodmon index.js"
   },
   "author": "Drew Clements",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "cars": [
+    {
+      "key": 1,
+      "make": "Mitsubishi",
+      "model": "Eclipse GS",
+      "year": 1995,
+      "color": "Green",
+      "driver": "Brian O'Connor"
+    },
+    {
+      "key": 2,
+      "make": "Mazda",
+      "model": "RX-7 FD",
+      "year": 1993,
+      "color": "Red",
+      "driver": "Dominic Toretto"
+    },
+    {
+      "key": 3,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 1995,
+      "color": "White",
+      "driver": "Jesse"
+    },
+    {
+      "key": 4,
+      "make": "Nissan",
+      "model": "Skyline",
+      "year": 1995,
+      "color": "Yellow",
+      "driver": "Leon"
+    },
+    {
+      "key": 5,
+      "make": "Nissan",
+      "model": "Maxima",
+      "year": 1999,
+      "color": "Blue",
+      "driver": "Vince"
+    },
+    {
+      "key": 6,
+      "make": "Nissan",
+      "model": "240sx",
+      "year": 1997,
+      "color": "Burgundy",
+      "driver": "Letty Ortiz"
+    },
+    {
+      "key": 7,
+      "make": "Toyota",
+      "model": "Supra",
+      "color": "orange",
+      "driver": "Brian O'Connor"
+    }
+  ]
+}

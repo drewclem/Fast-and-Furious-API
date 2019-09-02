@@ -1,0 +1,128 @@
+{
+  "drivers": [
+    {
+      "key": 1,
+      "name": "Brian O'Connor",
+      "alias": "The Buster",
+      "quotes": [
+        {
+          "key": 1,
+          "quote": "Dude, I almost had you."
+        },
+        {
+          "key": 2,
+          "quote": "I'll have the tuna. No crust."
+        },
+        {
+          "key": 3,
+          "quote": "I need one of these. One of the big ones. Actually, you know what? Let's make it two. And Harry, I need em by tonight"
+        },
+        {
+          "key": 4,
+          "quote": "But if I win I take the cash and I take the respect."
+        },
+        {
+          "key": 5,
+          "quote": "What's the retail on one of those?"
+        },
+        {
+          "key": 6,
+          "quote": "No faith!"
+        },
+        {
+          "key": 7,
+          "quote": "I bet he's got over a hundred grand under the hood."
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "name": "Dominic Toretto",
+      "alias": "Dom",
+      "quotes": [
+        {
+          "key": 1,
+          "quote": "It doesn't matter if you win by an inch or mile. Winning is winning."
+        },
+        {
+          "key": 2,
+          "quote": "Because the BUSTER kept me out of handcuffs. He didn't just run back to the fort. The buster brought me back."
+        },
+        {
+          "key": 3,
+          "quote": "I live my life a quarter mile at a time. For those ten seconds or less, I'm free."
+        },
+        {
+          "key": 4,
+          "quote": "You break her heart I'll break your neck."
+        },
+        {
+          "key": 5,
+          "quote": "I have faith in you, but this isn't a junkyard. This is a garage."
+        },
+        {
+          "key": 6,
+          "quote": "What'd you put in that sandwich?"
+        },
+        {
+          "key": 7,
+          "quote": "I never narc'd on nobody."
+        },
+        {
+          "key": 8,
+          "quote": "You know you owe me a ten second car."
+        },
+        {
+          "key": 9,
+          "quote": "Yeah and a stand alone fuel management system. Not a bad way to spend ten thousand dollars."
+        },
+        {
+          "key": 7,
+          "quote": "What do they plan on racing with? Hopes and dreams?"
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "name": "Letty Ortiz",
+      "alias": "Letty",
+      "quotes": [
+        {
+          "key": 1,
+          "quote": "I smell skanks. Why don't you girls just pack it up before I leave treadmarks on your face."
+        },
+        {
+          "key": 2,
+          "quote": "If you want ass why don't you hit Hollywood Boulevard. You want an adrenaline rush? It'll be two large, right here right now."
+        },
+        {
+          "key": 3,
+          "quote": "Praying to the car gods, man."
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "name": "Mia Toretto",
+      "alias": "Mia",
+      "quotes": [
+        {
+          "key": 1,
+          "quote": "Every day for the last three weeks you've been coming in here and you've been asking me how the tuna is. Now, it was crappy yesterday, it was crappy the day before and guess what? It hasn't changed."
+        },
+        {
+          "key": 2,
+          "quote": "You know, my brother likes you. Usually he doesn't like anybody."
+        },
+        {
+          "key": 3,
+          "quote": "And you definitely... definitely need a shower."
+        },
+        {
+          "key": 4,
+          "quote": "The gang? No, they don't call themselves a gange. They're a team, they call themselves a team."
+        }
+      ]
+    }
+  ]
+}

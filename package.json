@@ -1,0 +1,11 @@
+{
+  "name": "fast_and_furious_data",
+  "description": "A read-only API with information on key characters and cars from the original Fast and the Furious movie.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Drew Clements",
+  "license": "ISC"
+}

@@ -52,6 +52,7 @@
       "id": 7,
       "make": "Toyota",
       "model": "Supra",
+      "year": 1997,
       "color": "orange",
       "driver": "Brian O'Connor"
     }

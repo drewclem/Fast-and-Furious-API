@@ -1,6 +1,9 @@
 const express = require('express')
+const cors = require('cors')
 const app = express()
 const fs = require('fs')
+
+app.use(cors())
 
 app.get("/", (req, res) => {
   res.send('Welcome to my Fast and Furious API! A work in progress indeed. Visit "/cars" for car data and "/drivers" for character data.')

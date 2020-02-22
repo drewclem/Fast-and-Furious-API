@@ -4,6 +4,7 @@
       "uid": 1,
       "name": "Brian O'Connor",
       "alias": "The Buster",
+      "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/46/1510921298-paul-walker-fast-and-furious-6.jpg",
       "quotes": [
         {
           "id": 1,
@@ -39,6 +40,7 @@
       "uid": 2,
       "name": "Dominic Toretto",
       "alias": "Dom",
+      "image": "https://fanfest.com/wp-content/uploads/2017/04/fast-furious-8-filming-cuba-vin-diesel.jpg",
       "quotes": [
         {
           "id": 1,
@@ -86,6 +88,7 @@
       "uid": 3,
       "name": "Letty Ortiz",
       "alias": "Letty",
+      "image": "https://i.pinimg.com/originals/d8/d8/3f/d8d83fb26c3d974332d35e5abc8a52e3.jpg",
       "quotes": [
         {
           "id": 1,
@@ -105,6 +108,7 @@
       "uid": 4,
       "name": "Mia Toretto",
       "alias": "Mia",
+      "image": "https://fogsmoviereviews.files.wordpress.com/2013/01/jordana_brewster_mia_toretto.png",
       "quotes": [
         {
           "id": 1,

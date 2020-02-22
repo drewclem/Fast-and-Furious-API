@@ -6,7 +6,8 @@
       "model": "Eclipse GS",
       "year": 1995,
       "color": "Green",
-      "driver": "Brian O'Connor"
+      "driver": "Brian O'Connor",
+      "image": "https://i.ytimg.com/vi/Rliur0ejYG8/maxresdefault.jpg"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "model": "RX-7 FD",
       "year": 1993,
       "color": "Red",
-      "driver": "Dominic Toretto"
+      "driver": "Dominic Toretto",
+      "image": "https://farm66.static.flickr.com/65535/49153546018_dee365c9ce_b.jpg"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "model": "Jetta",
       "year": 1995,
       "color": "White",
-      "driver": "Jesse"
+      "driver": "Jesse",
+      "image": "https://i.ytimg.com/vi/v8H4_VGKiyU/maxresdefault.jpg"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "model": "Skyline",
       "year": 1995,
       "color": "Yellow",
-      "driver": "Leon"
+      "driver": "Leon",
+      "image": "https://bestmoviecars.com/wp-content/uploads/2016/10/1995-Nissan-Skyline-GT-R-R33.jpg"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "model": "Maxima",
       "year": 1999,
       "color": "Blue",
-      "driver": "Vince"
+      "driver": "Vince",
+      "image": "https://www.my4dsc.com/wp-content/uploads/Vinces_Maxima_-_Side_View.jpg"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "model": "240sx",
       "year": 1997,
       "color": "Burgundy",
-      "driver": "Letty Ortiz"
+      "driver": "Letty Ortiz",
+      "image": "https://drivetribe.imgix.net/cgg91BOVR9OrYpEJkI0zqQ?w=1600&h=680&fm=webp&auto=compress&lossless=true&fit=crop&crop=faces"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "model": "Supra",
       "year": 1997,
       "color": "orange",
-      "driver": "Brian O'Connor"
+      "driver": "Brian O'Connor",
+      "image": "https://www.motortrend.com/uploads/sites/5/2015/05/1993-Toyota-Supra-from-The-Fast-and-the-Furious-front-three-quarter-011.jpg"
     }
   ]
 }

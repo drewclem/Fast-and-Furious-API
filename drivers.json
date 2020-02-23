@@ -28,11 +28,15 @@
         },
         {
           "id": 6,
-          "quote": "No faith!"
+          "quote": "I owe you a ten-second car."
         },
         {
           "id": 7,
           "quote": "I bet he's got over a hundred grand under the hood."
+        },
+        {
+          "id": 8,
+          "quote": "Hector is going to be running 3 Honda Civics with spoon engines. And on top of that he just came into Harry's and he ordered 3 T66 turbos, with NOS, and a Motec system exhaust."
         }
       ]
     },
@@ -101,6 +105,10 @@
         {
           "id": 3,
           "quote": "Praying to the car gods, man."
+        },
+        {
+          "id": 4,
+          "quote": "You look a bit tired... I think you should go upstairs and give me a massage."
         }
       ]
     },
@@ -108,7 +116,7 @@
       "uid": 4,
       "name": "Mia Toretto",
       "alias": "Mia",
-      "image": "https://fogsmoviereviews.files.wordpress.com/2013/01/jordana_brewster_mia_toretto.png",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTY3MDM3OTU1Ml5BMl5BanBnXkFtZTgwODM2MTcxOTE@._V1_SY1000_CR0,0,1517,1000_AL_.jpg",
       "quotes": [
         {
           "id": 1,
@@ -124,7 +132,95 @@
         },
         {
           "id": 4,
-          "quote": "The gang? No, they don't call themselves a gange. They're a team, they call themselves a team."
+          "quote": "The gang? No, they don't call themselves a gang. They're a team, they call themselves a team."
+        },
+        {
+          "id": 5,
+          "quote": "Jesus Christ, Dom! Would you get out here please? I'm sick of this shit!"
+        }
+      ]
+    },
+    {
+      "uid": 5,
+      "name": "Jesse",
+      "alias": "The mad scientist",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY5NTk2NTIzN15BMl5BanBnXkFtZTgwOTE2MTcxOTE@._V1_SY1000_CR0,0,1517,1000_AL_.jpg",
+      "quotes": [
+        {
+          "id": 1,
+          "quote": "You could push this across the finish line, or tow it."
+        },
+        {
+          "id": 2,
+          "quote": "You know what? This will decimate all, after, you put about fifteen grand in it or more. If we have to, overnight parts from Japan."
+        },
+        {
+          "id": 3,
+          "quote": "This fool is running a Honda 200. I'll win. then me and my dad can roll together when he gets out of prison. It's all good."
+        },
+        {
+          "id": 4,
+          "quote": "He's beautiful."
+        },
+        {
+          "id": 5,
+          "quote": "Dear Heavenly... uh... spirit. Thank you. Thank you for providing us with the direct-port nitrous... uh... injection, four-core intercoolers, an' ball-bearing turbos, and... um... titanium valve springs. Thank you."
+        }
+      ]
+    },
+    {
+      "uid": 6,
+      "name": "Leon",
+      "alias": "",
+      "image": "https://lh3.googleusercontent.com/proxy/obt_Gt1AiceXzeoARnYI6xfny0-IsQww7sgmgHjl-djdE0oxNz4sI8PEVFcMLkz0gZLVgKf1mgoTaRHkVErLPX5ff3sS1SY9b74WK5upjz2AsaDEV2oWKkPvXkAVesCWWsxohqsh-tZ-A6I",
+      "quotes": [
+        {
+          "id": 1,
+          "quote": "Look who it is! Old Coyote's 'R' Us! I thought you weren't hungy pumpkin."
+        },
+        {
+          "id": 2,
+          "quote": "Roads closed pizza boy. Find another way home."
+        },
+        {
+          "id": 3,
+          "quote": "I like his haircut."
+        },
+        {
+          "id": 4,
+          "quote": "Oh shit! We got cops, cops, cops, cops!"
+        },
+        {
+          "id": 5,
+          "quote": "Hey Dom. We were just about to go look for you."
+        }
+      ]
+    },
+    {
+      "uid": 7,
+      "name": "Vince",
+      "alias": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzc2NzEzNzI3MV5BMl5BanBnXkFtZTgwNjA3MTcxOTE@._V1_SY1000_CR0,0,1517,1000_AL_.jpg",
+      "quotes": [
+        {
+          "id": 1,
+          "quote": "Yo Dom! Why'd you bring the busta here?"
+        },
+        {
+          "id": 2,
+          "quote": "Bullshit asshole, none likes the tuna here!"
+        },
+        {
+          "id": 3,
+          "quote": "What is this guy sandwich crazy or something?"
+        },
+        {
+          "id": 4,
+          "quote": "There were mass cops out there, that shit was orchestrated."
+        },
+        {
+          "id": 5,
+          "quote": "Nah, Mia. I'm talking to the punk. Wear your favorite dress, 'cause when you're done I'm putting you on the street where you belong."
         }
       ]
     }

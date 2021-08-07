@@ -8,56 +8,74 @@
       "color": "Green",
       "driver": "Brian O'Connor",
       "image": "https://m.media-amazon.com/images/M/MV5BNWM5ZjdhNjQtMmQ1MC00NWUwLWIyNGUtYzQ0MmYzYzIyZDYyXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_SX1777_CR0,0,1777,755_AL_.jpg",
-      "specs": {
-        "engine": [
-          "Mitsubishi 2.0: DOHC 420a",
-          "Naturally Aspirated",
-          "75hp Nitrous Oxide System",
-          "HotShot Header",
-          "Injen cold air intake",
-          "Bored-out throttle body",
-          "Upgraded spark plug wires"
-        ],
-        "exterior": [
-          "Robocar full body kit",
-          "Custom fabbed lower front splitter (not used in movie)",
-          "APR GT2-style rear wing",
-          "Custom-roof scoop",
-          "Carbon fiber race-style mirrors",
-          "1997 headlights",
-          "Kawasaki green paint"
-        ],
-        "chasis": [
-          "Axis Model Se7en Wheel, 18's",
-          "AEM cross drilled front brake rotors",
-          "Tanabe SS springs",
-          "Energy Suspension bushings"
-        ],
-        "interior": [
-          "Custom black and gray suede upholstery",
-          "Custom made A-pillar gauge pod",
-          "VDO tachometer",
-          "VDO fuel gauge",
-          "VDO temperature gauge",
-          "VDO volt gauge",
-          "MonkeyBars roll cage",
-          "Auto Indulgence neon green lights",
-          "Sparco pedal covers",
-          "Sparco shift knob"
-        ],
-        "av": [
-          "Alpine CVA 1005 head unit TV/DVD",
-          "Sony mids and tweeters",
-          "Dual Sony amps",
-          "Dual Sony 8 inch woofers in custom panel"
-        ],
-        "performance": [
-          "140 Horsepower (at the crank) without NOS",
-          "0-60 in 8.9 seconds",
-          "1/4 mile in 16.4 seconds at 84 mph",
-          "Top speed = 130 mph"
-        ]
-      }
+      "specs": [
+        {
+          "category": "Engine",
+          "info": [
+            "Mitsubishi 2.0: DOHC 420a",
+            "Naturally Aspirated",
+            "75hp Nitrous Oxide System",
+            "HotShot Header",
+            "Injen cold air intake",
+            "Bored-out throttle body",
+            "Upgraded spark plug wires"
+          ]
+        },
+        {
+          "category": "Exterior",
+          "info": [
+            "Robocar full body kit",
+            "Custom fabbed lower front splitter (not used in movie)",
+            "APR GT2-style rear wing",
+            "Custom-roof scoop",
+            "Carbon fiber race-style mirrors",
+            "1997 headlights",
+            "Kawasaki green paint"
+          ]
+        },
+        {
+          "category": "Chassis",
+          "info": [
+            "Axis Model Se7en Wheel, 18's",
+            "AEM cross drilled front brake rotors",
+            "Tanabe SS springs",
+            "Energy Suspension bushings"
+          ]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Custom black and gray suede upholstery",
+            "Custom made A-pillar gauge pod",
+            "VDO tachometer",
+            "VDO fuel gauge",
+            "VDO temperature gauge",
+            "VDO volt gauge",
+            "MonkeyBars roll cage",
+            "Auto Indulgence neon green lights",
+            "Sparco pedal covers",
+            "Sparco shift knob"
+          ]
+        },
+        {
+          "category": "Audio/Video",
+          "info": [
+            "Alpine CVA 1005 head unit TV/DVD",
+            "Sony mids and tweeters",
+            "Dual Sony amps",
+            "Dual Sony 8 inch woofers in custom panel"
+          ]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "140 Horsepower (at the crank) without NOS",
+            "0-60 in 8.9 seconds",
+            "1/4 mile in 16.4 seconds at 84 mph",
+            "Top speed = 130 mph"
+          ]
+        }
+      ]
     },
     {
       "id": 2,
@@ -66,61 +84,79 @@
       "year": 1993,
       "color": "Red",
       "driver": "Dominic Toretto",
-      "image": "https://farm66.static.flickr.com/65535/49153546018_dee365c9ce_b.jpg",
-      "specs": {
-        "engine": [
-          "Ported 13B-REW with 3mm Apex Seals",
-          "Twin turbo",
-          "Blitz BOV",
-          "Polished Intake Manifold",
-          "Blitz SUS Power Air Intake",
-          "Custom inlet pipes",
-          "Cosmo 20B fule pump",
-          "Magnecor plug wires",
-          "MSD 6AL Ignition box",
-          "Kinight Sports radiator",
-          "MazdaTrix front pipe",
-          "Racing Beat racing resonator",
-          "Blitz FMIC",
-          "APexi Power FC with FC Commander",
-          "Blitz NUR Spec exhaust"
-        ],
-        "exterior": [
-          "Veilside CII body kit",
-          "Veilside carbon fiber rear wing",
-          "RE Amemiya 'sleek light' kit"
-        ],
-        "chasis": [
-          "Veilside Andrew Racing 'F' wheels",
-          "Toyo T1 Proxes 235 and 255/40/18",
-          "Powerstop cross-drilled rotors, Goodridge stainless lines",
-          "APex t-max suspension"
-        ],
-        "interior": [
-          "Recaro SPG racing seat",
-          "Sparco harnesses",
-          "Veilside combat steering wheel",
-          "C's short-throw shifter",
-          "APex AVCR, tachometer and shift light",
-          "APex oil temp and exhaust temp gauges",
-          "GReddy turbo timer",
-          "NR white-faced gauge covers",
-          "APexi boost gauge",
-          "APexi temperature gauge",
-          "APexi oil pressure gaugevolt gauge",
-          "Sparco shift knob",
-          "Dashmasters carbon fiber dash overlay kit"
-        ],
-        "av": [
-          "Although the movie depicts a crazy audio system, those shots were taken from another car. This RX7 had the factory sound system as the owner was more about keeping the car lightweight."
-        ],
-        "performance": [
-          "330 RWHP at 15psi",
-          "0-60 in 4.5 seconds",
-          "1/4 mile in 13.5 seconds at 99 mph",
-          "Top speed = 170 mph"
-        ]
-      }
+      "image": "https://fastandfuriousfacts.com/wp-content/uploads/2018/09/AVTOBLOG-hitriindrzni-mazda-rx7-2.jpg",
+      "specs": [
+        {
+          "category": "Engine",
+          "info": [
+            "Ported 13B-REW with 3mm Apex Seals",
+            "Twin turbo",
+            "Blitz BOV",
+            "Polished Intake Manifold",
+            "Blitz SUS Power Air Intake",
+            "Custom inlet pipes",
+            "Cosmo 20B fule pump",
+            "Magnecor plug wires",
+            "MSD 6AL Ignition box",
+            "Kinight Sports radiator",
+            "MazdaTrix front pipe",
+            "Racing Beat racing resonator",
+            "Blitz FMIC",
+            "APexi Power FC with FC Commander",
+            "Blitz NUR Spec exhaust"
+          ]
+        },
+        {
+          "category": "Exterior",
+          "info": [
+            "Veilside CII body kit",
+            "Veilside carbon fiber rear wing",
+            "RE Amemiya 'sleek light' kit"
+          ]
+        },
+        {
+          "category": "Chassis",
+          "info": [
+            "Veilside Andrew Racing 'F' wheels",
+            "Toyo T1 Proxes 235 and 255/40/18",
+            "Powerstop cross-drilled rotors, Goodridge stainless lines",
+            "APex t-max suspension"
+          ]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Recaro SPG racing seat",
+            "Sparco harnesses",
+            "Veilside combat steering wheel",
+            "C's short-throw shifter",
+            "APex AVCR, tachometer and shift light",
+            "APex oil temp and exhaust temp gauges",
+            "GReddy turbo timer",
+            "NR white-faced gauge covers",
+            "APexi boost gauge",
+            "APexi temperature gauge",
+            "APexi oil pressure gaugevolt gauge",
+            "Sparco shift knob",
+            "Dashmasters carbon fiber dash overlay kit"
+          ]
+        },
+        {
+          "category": "Audio/Video",
+          "info": [
+            "Although the movie depicts a crazy audio system, those shots were taken from another car. This RX7 had the factory sound system as the owner was more about keeping the car lightweight."
+          ]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "330 RWHP at 15psi",
+            "0-60 in 4.5 seconds",
+            "1/4 mile in 13.5 seconds at 99 mph",
+            "Top speed = 170 mph"
+          ]
+        }
+      ]
     },
     {
       "id": 5,
@@ -130,60 +166,72 @@
       "color": "Blue",
       "driver": "Vince",
       "image": "https://www.my4dsc.com/wp-content/uploads/Vinces_Maxima_-_Side_View.jpg",
-      "specs": {
-        "engine": [
-          "3.0L V6",
-          "Stillen/Vortech Supercharger kit",
-          "Stillen Downpipe",
-          "Stillen custom exhaust",
-          "Stillen air intake",
-          "Stillen FMU",
-          "NGK Iridium spark plugs",
-          "Hose Techniques silicone hose kit"
-        ],
-        "exterior": [
-          "Dodge Viper GTS metallic blue paint",
-          "Sir Michae's revrse-punched hood louver system",
-          "Stillen full urethan body kit",
-          "Custom reverse mounted hood",
-          "HKS cupholder-mounted boost gauge",
-          "Custom blue-suede seating accents",
-          "Torasport blue carbon fiber dash overlays"
-        ],
-        "chasis": [
-          "Stillen/AP Racing 14 inch brakes",
-          "Stillen cross drilled rotors",
-          "Stillen swaybars",
-          "Stillen strut tower support",
-          "Stillen struts/shocks",
-          "Eibach Pro-Kit springs",
-          "Yokohoma 235/40/zr18 AVS S1 tires",
-          "19 inch TWS Trophy wheels"
-        ],
-        "interior": [
-          "Clarion VRX610 In-dash AM/FM/CD Controller with 6.4 inch LCD TV",
-          "Two Clarion VMA7191 7 inch Widescreen TV’s",
-          "Clarion VS715 Single DIN In-Dash DVD/CD/MP3 Player",
-          "Clarion DPH7500 DSP/EQ",
-          "Clarion RDC655T 6 Disc Changer",
-          "Clarion TTX7501 TV Tuner",
-          "Three JBL W12Gti 12 inch Woofers",
-          "Two sets Infinity Kappa Perfect 6.1 Separates",
-          "Three JBLP1200.1 1200 watt x 1 channel Amps",
-          "Two JPL 80.4 80 watts x 4 channel Amps",
-          "Two Optima Gel Cell batteries"
-        ],
-        "av": [
-          ""
-        ],
-        "performance": [
-          "247 front wheel horsepower",
-          "0-60 in 5.6 seconds (on 19 inch street tires)",
-          "¼ mile in 14.6 seconds at 95mph",
-          "Top speed = 140 mph",
-          "Curb weight = 3,250 lbs.(estimated)"
-        ]
-      }
+      "specs": [
+        {
+          "category": "Engine",
+          "info": [
+            "3.0L V6",
+            "Stillen/Vortech Supercharger kit",
+            "Stillen Downpipe",
+            "Stillen custom exhaust",
+            "Stillen air intake",
+            "Stillen FMU",
+            "NGK Iridium spark plugs",
+            "Hose Techniques silicone hose kit"
+          ]
+        },
+        {
+          "category": "Exterior",
+          "info": [
+            "Dodge Viper GTS metallic blue paint",
+            "Sir Michae's revrse-punched hood louver system",
+            "Stillen full urethan body kit",
+            "Custom reverse mounted hood",
+            "HKS cupholder-mounted boost gauge",
+            "Custom blue-suede seating accents",
+            "Torasport blue carbon fiber dash overlays"
+          ]
+        },
+        {
+          "category": "Chassis",
+          "info": [
+            "Stillen/AP Racing 14 inch brakes",
+            "Stillen cross drilled rotors",
+            "Stillen swaybars",
+            "Stillen strut tower support",
+            "Stillen struts/shocks",
+            "Eibach Pro-Kit springs",
+            "Yokohoma 235/40/zr18 AVS S1 tires",
+            "19 inch TWS Trophy wheels"
+          ]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Clarion VRX610 In-dash AM/FM/CD Controller with 6.4 inch LCD TV",
+            "Two Clarion VMA7191 7 inch Widescreen TV’s",
+            "Clarion VS715 Single DIN In-Dash DVD/CD/MP3 Player",
+            "Clarion DPH7500 DSP/EQ",
+            "Clarion RDC655T 6 Disc Changer",
+            "Clarion TTX7501 TV Tuner",
+            "Three JBL W12Gti 12 inch Woofers",
+            "Two sets Infinity Kappa Perfect 6.1 Separates",
+            "Three JBLP1200.1 1200 watt x 1 channel Amps",
+            "Two JPL 80.4 80 watts x 4 channel Amps",
+            "Two Optima Gel Cell batteries"
+          ]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "247 front wheel horsepower",
+            "0-60 in 5.6 seconds (on 19 inch street tires)",
+            "¼ mile in 14.6 seconds at 95mph",
+            "Top speed = 140 mph",
+            "Curb weight = 3,250 lbs.(estimated)"
+          ]
+        }
+      ]
     },
     {
       "id": 6,
@@ -193,48 +241,60 @@
       "color": "Burgundy",
       "driver": "Letty Ortiz",
       "image": "https://bestmoviecars.com/wp-content/uploads/2016/10/1997-Nissan-240SX-S14-2-e1490101413831.jpg",
-      "specs": {
-        "engine": [
-          "Nissan SR20 DET engine",
-          "Blitz SSBC",
-          "Blitz Dual Turbo Timer (DTT)",
-          "Super Sound Blow-off valve",
-          "Nurspec-R stainless exhaust",
-          "SUS stainless air cleaner",
-          "NGK Iridium spark plugs"
-        ],
-        "exterior": [
-          "1998 front-end conversion",
-          "House of Kolor Purple",
-          "Full Zeal Bay Speed bodykit",
-          "VIS GT aluminum wing"
-        ],
-        "chasis": [
-          "Advan Model 5 18″ wheels",
-          "Yokohama AVS 225/40 and 255/35/ tires",
-          "Espelir springs",
-          "GAB adjustable shocks/struts"
-        ],
-        "interior": [
-          "Relocated air conditioning controls",
-          "Sony head unit",
-          "Sony 10-disc changer",
-          "12 inch Pioneer sub",
-          "Sherwood amp",
-          "Rockford Fosgate amp",
-          "6.5″ MB Quartz speakers",
-          "Baker dry-cell battery"
-        ],
-        "av": [
-          ""
-        ],
-        "performance": [
-          "220 Horsepower",
-          "0-60 in 6.9 seconds",
-          "¼ mile in 15.0 seconds at 93 mph",
-          "Top speed = 130 mph"
-        ]
-      }
+      "specs": [
+        {
+          "category": "Engine",
+          "info": [
+            "Nissan SR20 DET engine",
+            "Blitz SSBC",
+            "Blitz Dual Turbo Timer (DTT)",
+            "Super Sound Blow-off valve",
+            "Nurspec-R stainless exhaust",
+            "SUS stainless air cleaner",
+            "NGK Iridium spark plugs"
+          ]
+        },
+        {
+          "category": "Exterior",
+          "info": [
+            "1998 front-end conversion",
+            "House of Kolor Purple",
+            "Full Zeal Bay Speed bodykit",
+            "VIS GT aluminum wing"
+          ]
+        },
+        {
+          "category": "Chassis",
+          "info": [
+            "Advan Model 5 18″ wheels",
+            "Yokohama AVS 225/40 and 255/35/ tires",
+            "Espelir springs",
+            "GAB adjustable shocks/struts"
+          ]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Relocated air conditioning controls",
+            "Sony head unit",
+            "Sony 10-disc changer",
+            "12 inch Pioneer sub",
+            "Sherwood amp",
+            "Rockford Fosgate amp",
+            "6.5″ MB Quartz speakers",
+            "Baker dry-cell battery"
+          ]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "220 Horsepower",
+            "0-60 in 6.9 seconds",
+            "¼ mile in 15.0 seconds at 93 mph",
+            "Top speed = 130 mph"
+          ]
+        }
+      ]
     },
     {
       "id": 7,
@@ -244,99 +304,266 @@
       "color": "orange",
       "driver": "Brian O'Connor",
       "image": "https://www.motortrend.com/uploads/sites/5/2015/05/1993-Toyota-Supra-from-The-Fast-and-the-Furious-front-three-quarter-011.jpg",
-      "specs": {
-        "engine": [
-          "Turbonetics T-66 ball bearing turbo, Q-trim compressor, .72 A/R built by Performance Factory",
-          "Turbonetics Delta II Wastegate",
-          "RPS Stainless steel/HTC coated custom manifold",
-          "100 HP Nitrous Oxide Wet System, by NOS",
-          "AEBS Turbo Downpipe",
-          "Greddy front mount intercooler",
-          "Greddy Power Extreme exhaust system",
-          "Greddy Pro-Fec B Boost Controller",
-          "Greddy Power Pulleys",
-          "Greddy Oil Cooler Kit",
-          "Greddy Turbo Timer",
-          "Greddy Boost, EGT, Oil Pressure and Water Temp gauges",
-          "Greddy Airinx Intake",
-          "Greddy steering wheel-mounted, remote boost controller",
-          "Greddy Cam Gears",
-          "APEXi Blowoff valve",
-          "HKS Vein Pressure Converter",
-          "HKS Graphic Control Computer",
-          "HKS Injector Pulse Monitor",
-          "G-Force Engineering Racing ROM",
-          "Hose Techniques Silicone hose kit",
-          "Clutchmasters Stage III Racing Clutch",
-          "Clutchmasters 11 lb. Billet Flywheel",
-          "Powerhouse Racing ported/polished throttle body (traction control delete)",
-          "Powerhouse Racing cylinder head work (port/polish)",
-          "Fluidyne aluminum radiator",
-          "Flex-a-Lite dual electric fan kit"
-        ],
-        "exterior": [
-          "Lamborghini Diablo Candy Pearl Orange Paint",
-          "Bomex Front spoiler",
-          "Bomex side/rear skirts",
-          "Roadboy RB-345 Ice white driving lights",
-          "TRD Composite Hood",
-          "1998 front turn signal updates",
-          "1998 headlight updates",
-          "Underhood neon lighting system",
-          "HID Xenon gas headlight conversion",
-          "APR Aluminum bi-plane rear wing",
-          "Custom Troy Lee Graphics by Modern Image"
-        ],
-        "chasis": [
-          "Yokohama AVS S1 285/30 and 255/35/19",
-          "Dazz/Racing Hart M5 Tuners, 19 incher’s",
-          "Stillen/AP Racing 14” front racing brakes, 6 piston caliper, w/slotted/drilled rotors",
-          "Gertrag Six-Speed gearbox with Stillway sequential adapter",
-          "Bilstein/Eibach coil-over suspension",
-          "Stillen sway bars",
-          "Cusco Front strut tower bar",
-          "Energy Suspension urethane bushings all around"
-        ],
-        "interior": [
-          "Viper blue suede and new black leather upholstery",
-          "A-Pillar gauge mount pod",
-          "Sparco Milano seats, custom matching fabric w/harness holes",
-          "Carbon-fiber dashtrim by Trimmasters",
-          "Auto Meter 5 inch Monster Tach",
-          "Auto Meter 'NOS ON' and 'LOW OIL' warning lights",
-          "G-Tech Pro Accelerometer",
-          "MFS Custom built roll cage, chromed",
-          "Sparco Steering Wheel",
-          "Sparco Harnesses"
-        ],
-        "av": [
-          "Clarion VRX8271 in dash TV/CD Changer controller, remote controlled",
-          "Clarion VMA6481 6” wide screen 2nd TV monitor in passenger airbag",
-          "Clarion VMA9181 5.5” 3rd TV monitor in trunk area",
-          "Clarion DSP9300 Digital Sound Processor, parametric EQ/Surround sound",
-          "Clarion CDC 635 CD Changer",
-          "Clarion SRS 1691 6 ½” separates",
-          "Image Dynamics 6” separates",
-          "2 Image Dynamics 12” woofers",
-          "2 Phaze Audio TD1500 Tube Driver amplifiers",
-          "1 Phaze Audio TD475 Tube Driver amplifier",
-          "Sony Playstation 1",
-          "Sony Playstation 2/DVD",
-          "Custom built electric-blue neon tubes for sound system back-lighting",
-          "Minolta 6450 VHS-C Camcorder",
-          "System design and fabrication by: Duane Uyeda at Audio Options, Torrance"
-        ],
-        "performance": [
-          "544 – 569 Horsepower without nitrous.",
-          "0-60 in 4.3 seconds",
-          "0-100 in 9.2 seconds",
-          "¼ mile in 12.2 seconds at 127 mph",
-          "Top speed = 185 mph",
-          "Skidpad =.98 g’s",
-          "Slalom time = 62mph",
-          "Curb weight = 3,601 lbs."
-        ]
-      }
+      "specs": [
+        {
+          "category": "Engine",
+          "info": [
+            "Turbonetics T-66 ball bearing turbo, Q-trim compressor, .72 A/R built by Performance Factory",
+            "Turbonetics Delta II Wastegate",
+            "RPS Stainless steel/HTC coated custom manifold",
+            "100 HP Nitrous Oxide Wet System, by NOS",
+            "AEBS Turbo Downpipe",
+            "Greddy front mount intercooler",
+            "Greddy Power Extreme exhaust system",
+            "Greddy Pro-Fec B Boost Controller",
+            "Greddy Power Pulleys",
+            "Greddy Oil Cooler Kit",
+            "Greddy Turbo Timer",
+            "Greddy Boost, EGT, Oil Pressure and Water Temp gauges",
+            "Greddy Airinx Intake",
+            "Greddy steering wheel-mounted, remote boost controller",
+            "Greddy Cam Gears",
+            "APEXi Blowoff valve",
+            "HKS Vein Pressure Converter",
+            "HKS Graphic Control Computer",
+            "HKS Injector Pulse Monitor",
+            "G-Force Engineering Racing ROM",
+            "Hose Techniques Silicone hose kit",
+            "Clutchmasters Stage III Racing Clutch",
+            "Clutchmasters 11 lb. Billet Flywheel",
+            "Powerhouse Racing ported/polished throttle body (traction control delete)",
+            "Powerhouse Racing cylinder head work (port/polish)",
+            "Fluidyne aluminum radiator",
+            "Flex-a-Lite dual electric fan kit"
+          ]
+        },
+        {
+          "category": "Exterior",
+          "info": [
+            "Lamborghini Diablo Candy Pearl Orange Paint",
+            "Bomex Front spoiler",
+            "Bomex side/rear skirts",
+            "Roadboy RB-345 Ice white driving lights",
+            "TRD Composite Hood",
+            "1998 front turn signal updates",
+            "1998 headlight updates",
+            "Underhood neon lighting system",
+            "HID Xenon gas headlight conversion",
+            "APR Aluminum bi-plane rear wing",
+            "Custom Troy Lee Graphics by Modern Image"
+          ]
+        },
+        {
+          "category": "Chassis",
+          "info": [
+            "Yokohama AVS S1 285/30 and 255/35/19",
+            "Dazz/Racing Hart M5 Tuners, 19 incher’s",
+            "Stillen/AP Racing 14” front racing brakes, 6 piston caliper, w/slotted/drilled rotors",
+            "Gertrag Six-Speed gearbox with Stillway sequential adapter",
+            "Bilstein/Eibach coil-over suspension",
+            "Stillen sway bars",
+            "Cusco Front strut tower bar",
+            "Energy Suspension urethane bushings all around"
+          ]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Viper blue suede and new black leather upholstery",
+            "A-Pillar gauge mount pod",
+            "Sparco Milano seats, custom matching fabric w/harness holes",
+            "Carbon-fiber dashtrim by Trimmasters",
+            "Auto Meter 5 inch Monster Tach",
+            "Auto Meter 'NOS ON' and 'LOW OIL' warning lights",
+            "G-Tech Pro Accelerometer",
+            "MFS Custom built roll cage, chromed",
+            "Sparco Steering Wheel",
+            "Sparco Harnesses"
+          ]
+        },
+        {
+          "category": "Audio/Video",
+          "info": [
+            "Clarion VRX8271 in dash TV/CD Changer controller, remote controlled",
+            "Clarion VMA6481 6” wide screen 2nd TV monitor in passenger airbag",
+            "Clarion VMA9181 5.5” 3rd TV monitor in trunk area",
+            "Clarion DSP9300 Digital Sound Processor, parametric EQ/Surround sound",
+            "Clarion CDC 635 CD Changer",
+            "Clarion SRS 1691 6 ½” separates",
+            "Image Dynamics 6” separates",
+            "2 Image Dynamics 12” woofers",
+            "2 Phaze Audio TD1500 Tube Driver amplifiers",
+            "1 Phaze Audio TD475 Tube Driver amplifier",
+            "Sony Playstation 1",
+            "Sony Playstation 2/DVD",
+            "Custom built electric-blue neon tubes for sound system back-lighting",
+            "Minolta 6450 VHS-C Camcorder",
+            "System design and fabrication by: Duane Uyeda at Audio Options, Torrance"
+          ]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "544 – 569 Horsepower without nitrous.",
+            "0-60 in 4.3 seconds",
+            "0-100 in 9.2 seconds",
+            "¼ mile in 12.2 seconds at 127 mph",
+            "Top speed = 185 mph",
+            "Skidpad =.98 g’s",
+            "Slalom time = 62mph",
+            "Curb weight = 3,601 lbs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "make": "Mitsubishi",
+      "model": "Evo VII",
+      "year": 2002,
+      "color": "yellow",
+      "driver": "Brian O'Connor",
+      "image": "https://fastandfuriousfacts.com/wp-content/uploads/2018/09/2_Fast_2_Furious_Paul_Walker_Mitsubishi_Evo9.jpg",
+      "specs": [
+        {
+          "category": "Engine",
+          "info": ["2.0L 4G63 engine", "HKS Stage II Clutch"]
+        },
+        {
+          "category": "Exterior",
+          "info": ["DAMD Bodykit", "ARC rear wing GT2 Style", "Custom Genera TYC taillights"]
+        },
+        {
+          "category": "Chassis",
+          "info": ["Motegi 'F55' wheels 18s", "Toyo Tires 235/40/18"]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Factory Recaro Seats",
+            "Apexi Tachometer",
+            "APexi boost gauge",
+            "APexi temperature gauge",
+            "APexi oil pressure gaugevolt gauge",
+            "Sparco shift knob"
+          ]
+        },
+        {
+          "category": "Audio/Video",
+          "info": ["Clarion VZ509 AM/FM/CD/DVD player", "Rockford Fosgate amp & speakers"]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "276 Horsepower",
+            "0-60 in 4.8 seconds",
+            "1/4 mile in 13.3 seconds at 98 mph",
+            "Top speed = 157 mph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "make": "Nissan",
+      "model": "Skyline GT-R V-Spec",
+      "year": 1999,
+      "color": "silver",
+      "driver": "Brian O'Connor",
+      "image": "https://static.wikia.nocookie.net/fastandfurious/images/d/d2/Nissan_Skyline_-_2F2F.jpg/revision/latest?cb=20201128161453",
+      "specs": [
+        {
+          "category": "Engine",
+          "info": [
+            "HKS 2540 turbos",
+            "HKS Titanium exhaust",
+            "HKS downpipe",
+            "HKS 800cc injectors",
+            "HKS 264 cams",
+            "HKS F-Con Pro",
+            "HKS adjustbale cam gears",
+            "HKS SSQV blow off valves",
+            "Groupe M Carbon airbox",
+            "HKS gauges – boost, fuel pressure, oil pressure, coolant temp, egt temp",
+            "HKS turbo timer",
+            "Nitrous Express 150hp direct port system, custom designed with three 10lb carbon fiber nitrous bottles and remote electric openers",
+            "Mine’s cooling panel",
+            "Essential oil catch can",
+            "Motec ADL",
+            "Apex expansion tank"
+          ]
+        },
+        {
+          "category": "Exterior",
+          "info": [
+            "C-West body kit (fiberglass)",
+            "C-West full carbon rear wing",
+            "C-West carbon fiber canards (added after the movie)",
+            "Trunk had mock race-style fuel-filler ports by Atuki in Japan",
+            "Custom candy blue paint by Quigley’s in Lake Forest, California"
+          ]
+        },
+        {
+          "category": "Chassis",
+          "info": [
+            "Toyo T1R Proxes 285/30/19 at all four corners",
+            "HRE 446R Wheels, 19 x 10 inches",
+            "StopTech 15″ front brakes with 6 piston calipers",
+            "StopTech 14″ rear brakes with 4 piston calipers",
+            "Stock 6-Speed gearbox",
+            "Ohlins remote-reservoir coil-over suspension",
+            "Nismo Titanium Strut tower bar",
+            "Nismo sway bars"
+          ]
+        },
+        {
+          "category": "Interior",
+          "info": [
+            "Viper blue suede and new black leather upholstery",
+            "Custom made A-Pillar gauge mount pod",
+            "Custom made passenger dash 3-gauge holder",
+            "Apexi Power FC",
+            "– FC Commander Part Number – 415-A030",
+            "– Boost Control Kit Part Number – 415-A001",
+            "HKS “Indiglo” gauges (boost, EGT, oil pressure, oil temperature water temp, etc.)",
+            "Sparco Milano seats, custom matching fabric w/harness holes by Stitchcraft",
+            "Sparco harnesses",
+            "Sparco steering wheel",
+            "G-Tech Pro Accelerometer"
+          ]
+        },
+        {
+          "category": "Audio/Video",
+          "info": [
+            "Clarion VRX925VD in-dash TV/CD Changer controller, remote controlled",
+            "Clarion VMA7191 6” wide screen 2nd TV monitor in passenger airbag",
+            "Clarion VMA7191 6” wide scren 3rd TV monitor in trunk area",
+            "Clarion DSP9300 Digital Sound Processor, parametric EQ/Surround sound",
+            "Clarion CDC 655rz CD Changer",
+            "Clarion TTZ7501z TV Tuner",
+            "Three sets of Infinity Kappa 6.1 separates (mids, tweeters)",
+            "2 JBL 1200.1 amps, 1200 watts each",
+            "2 JBL P80.4 amps, 320 watts each",
+            "2 JBL W12GTi 12” woofers",
+            "2 Myron Davis bumper cameras",
+            "Custom fabricated lower door panels to house the seperates",
+            "Custom fabbed trunk for the woofers, amps and TV"
+          ]
+        },
+        {
+          "category": "Performance",
+          "info": [
+            "420-450 Horsepower without nitrous",
+            "0-60 in 4.2 seconds (on 19 inch street tires)",
+            "0-100 in 9.0 seconds (on 19 inch street tires)",
+            "¼ mile in 12.0 seconds at 122 mph",
+            "Top speed = 165 mph",
+            "Skidpad =.90 g’s",
+            "Slalom time = 61 mph",
+            "Curb weight = 3,845 lbs."
+          ]
+        }
+      ]
     }
   ]
 }
